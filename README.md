@@ -37,11 +37,11 @@ The challenge is to create an online book recipe app with title, ingredients, ca
 
 ### What I learned
 
-This project help me to explore Bootstrap 5  by building this realistic project included Javascript. I learn how interact with a css Framework and see how quick we can make a beautifull UI.
+This project help me to explore the technology of Bootstrap 5  by building this app included Javascript. I learn how interact with a css Framework and see how quick we can make a beautifull UI.
 
 ### Continued development
 
-In future projects i would like to learn more consepts about css Framework like Sass and try out to combine more concepts. Also i want to learn some libraries like React and React Route DOM. 
+In future projects i would like to learn more consepts about css Framework like Sass and try out to combine more concepts. Also i want to learn some libraries like React and React Router DOM. 
 
 
 ### Useful resources
